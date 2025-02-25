@@ -1,0 +1,117 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "untitled..tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "fence_1.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "grass_1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "grass_2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "grass_3.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "lamp.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "oak_woods_tileset.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "rock_3.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "shop.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "sign.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "untitled..tmx": {
+            "scale": 0.9302083333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.53751399776036,
+                "y": 480.00000000000006
+            }
+        },
+        "untitled.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 480,
+                "y": 479.5
+            }
+        }
+    },
+    "last.exportedFilePath": "F:/descarare/game/Folder nou",
+    "last.imagePath": "F:/descarare/game/oak_woods_v1.0/decorations",
+    "map.height": 40,
+    "map.lastUsedExportFilter": "Tiled map files (*.tmx *.xml)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 24,
+    "map.tileWidth": 24,
+    "map.width": 40,
+    "openFiles": [
+        "untitled.tmx",
+        "oak_woods_tileset.tsx",
+        "fence_1.tsx",
+        "grass_1.tsx",
+        "lamp.tsx",
+        "rock_3.tsx",
+        "grass_3.tsx",
+        "grass_2.tsx",
+        "shop.tsx",
+        "sign.tsx",
+        "untitled..tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "untitled.tmx",
+        "oak_woods_tileset.tsx",
+        "fence_1.tsx",
+        "grass_1.tsx",
+        "lamp.tsx",
+        "rock_3.tsx",
+        "grass_3.tsx",
+        "grass_2.tsx",
+        "shop.tsx",
+        "sign.tsx",
+        "untitled..tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 31,
+        "width": 22
+    },
+    "tileset.type": 1
+}
